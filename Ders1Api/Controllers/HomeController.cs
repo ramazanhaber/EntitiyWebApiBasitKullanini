@@ -10,7 +10,7 @@ namespace Ders1Api.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home Page 55";
 
             return View();
         }

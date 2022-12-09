@@ -7,6 +7,8 @@
       <Diagram DiagramId="c929416876694e32a9e25c4f86bfcdc2" Name="Diagram1">
         <EntityTypeShape EntityType="OgrenciDBModel.OgrenciTable" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="OgrenciDBModel.OgrenciDetail" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="OgrenciDBModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="OgrenciDBModel.Resim" Width="1.5" PointX="2.75" PointY="3.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -27,5 +27,7 @@ namespace Ders1Api.Entities
     
         public virtual DbSet<OgrenciTable> OgrenciTable { get; set; }
         public virtual DbSet<OgrenciDetail> OgrenciDetail { get; set; }
+        public virtual DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
+        public virtual DbSet<Resim> Resim { get; set; }
     }
 }

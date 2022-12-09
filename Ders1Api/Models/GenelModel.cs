@@ -15,6 +15,7 @@ namespace Ders1Api.Models
 
         public object OgrenciData { get; set; }
         public object OgrenciDetailData { get; set; }
+        public object resimData { get; set; }
 
 
 
